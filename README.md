@@ -10,3 +10,14 @@
 
 This repository is an awesome-paper-collection with each paper accompanied with a highlighted figures/tables.
 The scope of this collection is the intersection of AI and dynamical system.
+
+## Reviews
+<details>
+  <summary>Interpretable Machine Learning for Discovery: Statistical Challenges and Opportunities</summary>
+  [#mytag]
+  <a><img alt="illustration" src="papers\Genevera2024\illustration.png"></a>
+</details>
+
+## Methods
+
+## Applications

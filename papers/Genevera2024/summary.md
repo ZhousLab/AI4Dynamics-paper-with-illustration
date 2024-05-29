@@ -1,8 +1,8 @@
 ---
 # metadata
 title: "Interpretable Machine Learning for Discovery: Statistical Challenges and Opportunities"
-year: year
-tags: [gnn, application, method]
+year: 2024
+tags: [review, xai]
 ---
 
 # Interpretable Machine Learning for Discovery: Statistical Challenges and Opportunities
