@@ -42,6 +42,7 @@ I'm trying to update one paper per day!
 <details>
 <!-- Unfold text -->
     <summary><b>3. Chaos as an interpretable benchmark for forecasting and data-driven modelling</b></summary>
+    see also: <b>Model scale versus domain knowledge in statistical forecasting of chaotic systems</b>
 <!-- Tags -->
     <img alt="dynamical system" src="https://img.shields.io/badge/dynamical_system-purple">
     <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue">
@@ -63,6 +64,31 @@ I'm trying to update one paper per day!
 </details>
 <!----------------------------------------------------------------------->
 
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>5. Extreme value statistics for dynamical systems with noise</b></summary>
+<!-- Tags -->
+    <img alt="dynamical system" src="https://img.shields.io/badge/dynamical_system-purple">
+    <img alt="method" src="https://img.shields.io/badge/method-orange">
+    <img alt="extreme" src="https://img.shields.io/badge/extreme-lightseagreen">
+<!-- Illustration -->
+    <a><img alt="illustration" src="illustrations\davide2013.png"></a>
+</details>
+<!----------------------------------------------------------------------->
+
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>6. Model-Free Prediction of Large Spatiotemporally Chaotic Systems from Data: A Reservoir Computing Approach</b></summary>
+<!-- Tags -->
+    <img alt="dynamical system" src="https://img.shields.io/badge/dynamical_system-purple">
+    <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue">
+    <img alt="predictability" src="https://img.shields.io/badge/predictability-cadetblue">
+<!-- Illustration -->
+    <a><img alt="illustration" src="illustrations\Jaideep2018.png"></a>
+</details>
+<!----------------------------------------------------------------------->
 
 
 ## Template
@@ -72,6 +98,7 @@ I'm trying to update one paper per day!
     <summary><b>Paper name</b></summary>
 <!-- Tags -->
     <img alt="dynamical system" src="https://img.shields.io/badge/dynamical_system-purple">
+    <img alt="predictability" src="https://img.shields.io/badge/predictability-cadetblue">
 <!-- Illustration -->
     <a><img alt="illustration" src="illustrations\Genevera2024.png"></a>
 </details>
@@ -105,6 +132,9 @@ I'm trying to update one paper per day!
 
 ![xai](https://img.shields.io/badge/xai-red)
 <img alt="xai" src="https://img.shields.io/badge/xai-red">
+
+![extreme](https://img.shields.io/badge/extreme-lightseagreen)
+<img alt="extreme" src="https://img.shields.io/badge/extreme-lightseagreen">
 
 
 -->
