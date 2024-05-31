@@ -90,6 +90,7 @@ I'm trying to update one paper per day!
 </details>
 <!----------------------------------------------------------------------->
 
+<!----------------------------------------------------------------------->
 <details>
 <!-- Unfold text -->
     <summary><b>7.Transformers in Time Series: A Survey</b></summary>
@@ -100,7 +101,20 @@ I'm trying to update one paper per day!
     <a><img alt="illustration" src="illustrations\Qingsong2022_1.png"></a>
     <a><img alt="illustration" src="illustrations\Qingsong2022_2.png"></a>
 </details>
+<!----------------------------------------------------------------------->
 
+
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>8. A Survey on Diffusion Models for Time Series and Spatio-Temporal Data</b></summary>
+<!-- Tags -->
+    <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue">
+    <img alt="review" src="https://img.shields.io/badge/review-green">
+<!-- Illustration -->
+    <a><img alt="illustration" src="illustrations\Yiyuan2024.png"></a>
+</details>
+<!----------------------------------------------------------------------->
 
 
 
