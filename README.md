@@ -16,7 +16,7 @@ I'm trying to update one paper per day!
 <!----------------------------------------------------------------------->
 <details>
 <!-- Unfold text -->
-  <summary><b>1. Interpretable Machine Learning for Discovery: Statistical Challenges and Opportunities</b></summary>
+  <summary><b>Interpretable Machine Learning for Discovery: Statistical Challenges and Opportunities</b></summary>
 <!-- Tags -->
   <img alt="review" src="https://img.shields.io/badge/review-green">
   <img alt="xai" src="https://img.shields.io/badge/xai-red">
@@ -28,7 +28,7 @@ I'm trying to update one paper per day!
 <!----------------------------------------------------------------------->
 <details>
 <!-- Unfold text -->
-    <summary><b>2. Generalization properties of feed-forward neural networks trained on Lorenz systems</b></summary>
+    <summary><b>Generalization properties of feed-forward neural networks trained on Lorenz systems</b></summary>
 <!-- Tags -->
     <img alt="dynamical system" src="https://img.shields.io/badge/dynamical_system-purple">
     <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue">
@@ -41,7 +41,7 @@ I'm trying to update one paper per day!
 <!----------------------------------------------------------------------->
 <details>
 <!-- Unfold text -->
-    <summary><b>3. Chaos as an interpretable benchmark for forecasting and data-driven modelling</b></summary>
+    <summary><b>Chaos as an interpretable benchmark for forecasting and data-driven modelling</b></summary>
     see also: <b>Model scale versus domain knowledge in statistical forecasting of chaotic systems</b>
 <!-- Tags -->
     <img alt="dynamical system" src="https://img.shields.io/badge/dynamical_system-purple">
@@ -55,7 +55,7 @@ I'm trying to update one paper per day!
 <!----------------------------------------------------------------------->
 <details>
 <!-- Unfold text -->
-    <summary><b>4. Predictability of Weather and Climate</b></summary>
+    <summary><b>Predictability of Weather and Climate</b></summary>
 <!-- Tags -->
     <img alt="dynamical system" src="https://img.shields.io/badge/dynamical_system-purple">
     <img alt="predictability" src="https://img.shields.io/badge/predictability-cadetblue">
@@ -67,7 +67,7 @@ I'm trying to update one paper per day!
 <!----------------------------------------------------------------------->
 <details>
 <!-- Unfold text -->
-    <summary><b>5. Extreme value statistics for dynamical systems with noise</b></summary>
+    <summary><b>Extreme value statistics for dynamical systems with noise</b></summary>
 <!-- Tags -->
     <img alt="dynamical system" src="https://img.shields.io/badge/dynamical_system-purple">
     <img alt="method" src="https://img.shields.io/badge/method-orange">
@@ -80,7 +80,7 @@ I'm trying to update one paper per day!
 <!----------------------------------------------------------------------->
 <details>
 <!-- Unfold text -->
-    <summary><b>6. Model-Free Prediction of Large Spatiotemporally Chaotic Systems from Data: A Reservoir Computing Approach</b></summary>
+    <summary><b>Model-Free Prediction of Large Spatiotemporally Chaotic Systems from Data: A Reservoir Computing Approach</b></summary>
 <!-- Tags -->
     <img alt="dynamical system" src="https://img.shields.io/badge/dynamical_system-purple">
     <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue">
@@ -93,7 +93,7 @@ I'm trying to update one paper per day!
 <!----------------------------------------------------------------------->
 <details>
 <!-- Unfold text -->
-    <summary><b>7.Transformers in Time Series: A Survey</b></summary>
+    <summary><b>Transformers in Time Series: A Survey</b></summary>
 <!-- Tags -->
     <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue">
     <img alt="review" src="https://img.shields.io/badge/review-green">
@@ -107,7 +107,7 @@ I'm trying to update one paper per day!
 <!----------------------------------------------------------------------->
 <details>
 <!-- Unfold text -->
-    <summary><b>8. A Survey on Diffusion Models for Time Series and Spatio-Temporal Data</b></summary>
+    <summary><b>A Survey on Diffusion Models for Time Series and Spatio-Temporal Data</b></summary>
 <!-- Tags -->
     <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue">
     <img alt="review" src="https://img.shields.io/badge/review-green">
@@ -116,7 +116,18 @@ I'm trying to update one paper per day!
 </details>
 <!----------------------------------------------------------------------->
 
-
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>A variational approach to probing extreme events in turbulent dynamical systems</b></summary>
+<!-- Tags -->
+    <img alt="dynamical system" src="https://img.shields.io/badge/dynamical_system-purple">
+    <img alt="extreme" src="https://img.shields.io/badge/extreme-lightseagreen">
+<!-- Illustration -->
+    <a><img alt="illustration" src="illustrations\Mohammad2017_1.png"></a>
+    <a><img alt="illustration" src="illustrations\Mohammad2017_2.png"></a>
+</details>
+<!----------------------------------------------------------------------->
 
 
 
