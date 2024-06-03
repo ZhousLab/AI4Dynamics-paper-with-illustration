@@ -19,7 +19,7 @@ I'm trying to update one paper per day!
   <summary><b>Interpretable Machine Learning for Discovery: Statistical Challenges and Opportunities</b></summary>
 <!-- Tags -->
   <img alt="review" src="https://img.shields.io/badge/review-green">
-  <img alt="xai" src="https://img.shields.io/badge/xai-red">
+  <img alt="xai" src="https://img.shields.io/badge/xai-red">  
 <!-- Illustration -->
   <a><img alt="illustration" src="illustrations\Genevera2024.png"></a>
 </details>
@@ -129,7 +129,16 @@ I'm trying to update one paper per day!
 </details>
 <!----------------------------------------------------------------------->
 
-
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>Drug discovery with explainable artificial intelligence</b></summary>
+<!-- Tags -->
+    <img alt="xai" src="https://img.shields.io/badge/xai-red">
+<!-- Illustration -->
+    <a><img alt="illustration" src="illustrations\Genevera2024.png"></a>
+</details>
+<!----------------------------------------------------------------------->
 
 
 ## Template
