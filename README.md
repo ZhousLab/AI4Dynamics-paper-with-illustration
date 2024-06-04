@@ -12,7 +12,7 @@ This repository is an awesome-paper-collection with **each paper accompanied wit
 
 I'm trying to update one paper per day!
 
-
+## Reviews
 <!----------------------------------------------------------------------->
 <details>
 <!-- Unfold text -->
@@ -25,6 +25,33 @@ I'm trying to update one paper per day!
 </details>
 <!----------------------------------------------------------------------->
 
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>Transformers in Time Series: A Survey</b></summary>
+<!-- Tags -->
+    <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue">
+    <img alt="review" src="https://img.shields.io/badge/review-green">
+<!-- Illustration -->
+    <a><img alt="illustration" src="illustrations\Qingsong2022_1.png"></a>
+    <a><img alt="illustration" src="illustrations\Qingsong2022_2.png"></a>
+</details>
+<!----------------------------------------------------------------------->
+
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>A Survey on Diffusion Models for Time Series and Spatio-Temporal Data</b></summary>
+<!-- Tags -->
+    <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue">
+    <img alt="review" src="https://img.shields.io/badge/review-green">
+<!-- Illustration -->
+    <a><img alt="illustration" src="illustrations\Yiyuan2024.png"></a>
+</details>
+<!----------------------------------------------------------------------->
+
+
+## Machine learning for extremes/dynamics
 <!----------------------------------------------------------------------->
 <details>
 <!-- Unfold text -->
@@ -49,18 +76,6 @@ I'm trying to update one paper per day!
     <img alt="dataset" src="https://img.shields.io/badge/dataset-darkred">
 <!-- Illustration -->
     <a><img alt="illustration" src="illustrations\William2023.png"></a>
-</details>
-<!----------------------------------------------------------------------->
-
-<!----------------------------------------------------------------------->
-<details>
-<!-- Unfold text -->
-    <summary><b>Predictability of Weather and Climate</b></summary>
-<!-- Tags -->
-    <img alt="dynamical system" src="https://img.shields.io/badge/dynamical_system-purple">
-    <img alt="predictability" src="https://img.shields.io/badge/predictability-cadetblue">
-<!-- Illustration -->
-    <a><img alt="illustration" src="illustrations\Krishnamurthy2019.png"></a>
 </details>
 <!----------------------------------------------------------------------->
 
@@ -93,33 +108,7 @@ I'm trying to update one paper per day!
 <!----------------------------------------------------------------------->
 <details>
 <!-- Unfold text -->
-    <summary><b>Transformers in Time Series: A Survey</b></summary>
-<!-- Tags -->
-    <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue">
-    <img alt="review" src="https://img.shields.io/badge/review-green">
-<!-- Illustration -->
-    <a><img alt="illustration" src="illustrations\Qingsong2022_1.png"></a>
-    <a><img alt="illustration" src="illustrations\Qingsong2022_2.png"></a>
-</details>
-<!----------------------------------------------------------------------->
-
-
-<!----------------------------------------------------------------------->
-<details>
-<!-- Unfold text -->
-    <summary><b>A Survey on Diffusion Models for Time Series and Spatio-Temporal Data</b></summary>
-<!-- Tags -->
-    <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue">
-    <img alt="review" src="https://img.shields.io/badge/review-green">
-<!-- Illustration -->
-    <a><img alt="illustration" src="illustrations\Yiyuan2024.png"></a>
-</details>
-<!----------------------------------------------------------------------->
-
-<!----------------------------------------------------------------------->
-<details>
-<!-- Unfold text -->
-    <summary><b>A variational approach to probing extreme events in turbulent dynamical systems</b></summary>
+    <summary><b>A variational approach to probing extreme events in turbulent dynamical systems &#128209</b></summary>
 <!-- Tags -->
     <img alt="dynamical system" src="https://img.shields.io/badge/dynamical_system-purple">
     <img alt="extreme" src="https://img.shields.io/badge/extreme-lightseagreen">
@@ -128,6 +117,52 @@ I'm trying to update one paper per day!
     <a><img alt="illustration" src="illustrations\Mohammad2017_2.png"></a>
 </details>
 <!----------------------------------------------------------------------->
+
+## Predictability related
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>Predictability of Weather and Climate</b></summary>
+<!-- Tags -->
+    <img alt="dynamical system" src="https://img.shields.io/badge/dynamical_system-purple">
+    <img alt="predictability" src="https://img.shields.io/badge/predictability-cadetblue">
+<!-- Illustration -->
+    <a><img alt="illustration" src="illustrations\Krishnamurthy2019.png"></a>
+</details>
+<!----------------------------------------------------------------------->
+
+## XAI
+
+## Other interesting works
+
+
+
+
+
+Time Series Forecasting With Deep Learning: A Survey
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>Paper name</b></summary>
+<!-- Tags -->
+    <img alt="dynamical system" src="https://img.shields.io/badge/dynamical_system-purple">
+    <img alt="predictability" src="https://img.shields.io/badge/predictability-cadetblue">
+<!-- Illustration -->
+    <a><img alt="illustration" src="illustrations\Genevera2024.png"></a>
+</details>
+<!----------------------------------------------------------------------->
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -148,6 +183,8 @@ I'm trying to update one paper per day!
 
 
 <!-- 
+Bookmark: &#128209
+
 ## Taxonomy
 
 ![review](https://img.shields.io/badge/review-green)
