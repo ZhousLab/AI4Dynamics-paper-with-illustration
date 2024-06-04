@@ -50,6 +50,36 @@ I'm trying to update one paper per day!
 </details>
 <!----------------------------------------------------------------------->
 
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>Time Series Forecasting With Deep Learning: A Survey</b></summary>
+<!-- Tags -->
+    <img alt="review" src="https://img.shields.io/badge/review-green">
+<!-- Illustration -->
+    <a><img alt="illustration" src="illustrations\Bryan2020_1.png"></a>
+    <a><img alt="illustration" src="illustrations\Bryan2020_2.png"></a>
+</details>
+<!----------------------------------------------------------------------->
+
+
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>Event Prediction in the Big Data Era: A Systematic Survey</b></summary>
+<!-- Tags -->
+    <img alt="review" src="https://img.shields.io/badge/review-green">
+<!-- Illustration -->
+    <p>Check datasets and code: https://cs.emory.edu/~lzhao41/projects/event_prediction_site/</p>
+</details>
+<!----------------------------------------------------------------------->
+
+
+
+
+
+
+
 
 ## Machine learning for extremes/dynamics
 <!----------------------------------------------------------------------->
@@ -69,11 +99,11 @@ I'm trying to update one paper per day!
 <details>
 <!-- Unfold text -->
     <summary><b>Chaos as an interpretable benchmark for forecasting and data-driven modelling</b></summary>
-    see also: <b>Model scale versus domain knowledge in statistical forecasting of chaotic systems</b>
 <!-- Tags -->
     <img alt="dynamical system" src="https://img.shields.io/badge/dynamical_system-purple">
     <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue">
     <img alt="dataset" src="https://img.shields.io/badge/dataset-darkred">
+    <p>see also: <b>Model scale versus domain knowledge in statistical forecasting of chaotic systems</b></p>
 <!-- Illustration -->
     <a><img alt="illustration" src="illustrations\William2023.png"></a>
 </details>
@@ -118,6 +148,11 @@ I'm trying to update one paper per day!
 </details>
 <!----------------------------------------------------------------------->
 
+
+
+
+
+
 ## Predictability related
 <!----------------------------------------------------------------------->
 <details>
@@ -132,38 +167,6 @@ I'm trying to update one paper per day!
 <!----------------------------------------------------------------------->
 
 ## XAI
-
-## Other interesting works
-
-
-
-
-
-Time Series Forecasting With Deep Learning: A Survey
-<!----------------------------------------------------------------------->
-<details>
-<!-- Unfold text -->
-    <summary><b>Paper name</b></summary>
-<!-- Tags -->
-    <img alt="dynamical system" src="https://img.shields.io/badge/dynamical_system-purple">
-    <img alt="predictability" src="https://img.shields.io/badge/predictability-cadetblue">
-<!-- Illustration -->
-    <a><img alt="illustration" src="illustrations\Genevera2024.png"></a>
-</details>
-<!----------------------------------------------------------------------->
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!----------------------------------------------------------------------->
 <details>
 <!-- Unfold text -->
@@ -174,6 +177,28 @@ Time Series Forecasting With Deep Learning: A Survey
     <a><img alt="illustration" src="illustrations\Genevera2024.png"></a>
 </details>
 <!----------------------------------------------------------------------->
+
+## Other interesting works
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Template
