@@ -148,6 +148,20 @@ I'm trying to update one paper per day!
 </details>
 <!----------------------------------------------------------------------->
 
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>Dynamical Tests of a Deep-Learning Weather Prediction Model &#128209</b></summary>
+<!-- Tags -->
+    <img alt="dynamical system" src="https://img.shields.io/badge/dynamical_system-purple">
+    <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue">
+<!-- Illustration -->
+    <a><img alt="illustration" src="illustrations\Gregory2024_1.png"></a>
+    <a><img alt="illustration" src="illustrations\Gregory2024_2.png"></a>
+</details>
+<!----------------------------------------------------------------------->
+
+
 
 
 
@@ -166,17 +180,24 @@ I'm trying to update one paper per day!
 </details>
 <!----------------------------------------------------------------------->
 
+
+
+
+
+
+
+
+
 ## XAI
-<!----------------------------------------------------------------------->
-<details>
-<!-- Unfold text -->
-    <summary><b>Drug discovery with explainable artificial intelligence</b></summary>
-<!-- Tags -->
-    <img alt="xai" src="https://img.shields.io/badge/xai-red">
-<!-- Illustration -->
-    <a><img alt="illustration" src="illustrations\Genevera2024.png"></a>
-</details>
-<!----------------------------------------------------------------------->
+
+
+
+
+
+
+
+
+
 
 ## Other interesting works
 
