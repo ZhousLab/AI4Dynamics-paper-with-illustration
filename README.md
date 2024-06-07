@@ -74,6 +74,20 @@ I'm trying to update one paper per day!
 </details>
 <!----------------------------------------------------------------------->
 
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>A survey on epistemic (model) uncertainty in supervised learning:
+Recent advances and applications</b></summary>
+<!-- Tags -->
+    <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue">
+    <img alt="uncertainty" src="https://img.shields.io/badge/uncertainty-firebrick">
+<!-- Illustration -->
+    <a><img alt="illustration" src="illustrations\Xinlei2022_1.png"></a>
+    <a><img alt="illustration" src="illustrations\Xinlei2022_2.png"></a>
+</details>
+<!----------------------------------------------------------------------->
+
 
 
 
