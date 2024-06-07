@@ -167,7 +167,7 @@ I'm trying to update one paper per day!
 
 
 
-## Predictability related
+## Predictability
 <!----------------------------------------------------------------------->
 <details>
 <!-- Unfold text -->
@@ -181,7 +181,19 @@ I'm trying to update one paper per day!
 <!----------------------------------------------------------------------->
 
 
-
+## Machine learning uncertainty / Scientific machine learning
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>Uncertainty quantification in scientific machine learning: Methods, metrics, and comparisons &#128209</b></summary>
+<!-- Tags -->
+    <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue">
+    <img alt="uncertainty" src="https://img.shields.io/badge/uncertainty-firebrick">
+<!-- Illustration -->
+    <a><img alt="illustration" src="illustrations\Apostolos2023_1.png"></a>
+    <a><img alt="illustration" src="illustrations\Apostolos2023_2.png"></a>
+</details>
+<!----------------------------------------------------------------------->
 
 
 
@@ -269,6 +281,6 @@ Bookmark: &#128209
 ![extreme](https://img.shields.io/badge/extreme-lightseagreen)
 <img alt="extreme" src="https://img.shields.io/badge/extreme-lightseagreen">
 
-
+<img alt="uncertainty" src="https://img.shields.io/badge/uncertainty-firebrick">
 -->
 
