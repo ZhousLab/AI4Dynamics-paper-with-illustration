@@ -1,6 +1,6 @@
 <div align="center">
 
-# AI4Dynamics: Awesome Paper with an Illustration
+# AI4Dynamics: Awesome Paper with Illustrations
 
 <a><img alt="awesome-papers" src="https://img.shields.io/badge/awesome-papers-green"></a>
 <a><img alt="PR-welcome" src="https://img.shields.io/badge/PR-welcome-blue"></a>
@@ -8,7 +8,7 @@
 
 </div>
 
-This repository is an awesome-paper-collection with **each paper accompanied with a highlighted figures/tables**. The main scope of this collection is the intersection of **(X)AI and dynamical system**. 
+This repository is an awesome-paper-collection with **each paper accompanied with highlighted figures/tables**. The main scope of this collection is the intersection of **(X)AI and dynamical system**. 
 
 I'm trying to update one paper per day!
 
