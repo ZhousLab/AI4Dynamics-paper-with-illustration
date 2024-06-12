@@ -176,7 +176,18 @@ Recent advances and applications</b></summary>
 <!----------------------------------------------------------------------->
 
 
-
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>State estimation of a physical system with unknown governing equations &#128209</b></summary>
+<!-- Tags -->
+    <img alt="dynamical system" src="https://img.shields.io/badge/dynamical_system-purple">
+    <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue">
+<!-- Illustration -->
+    <a><img alt="illustration" src="illustrations\Kevin2023_1.png"></a>
+    <a><img alt="illustration" src="illustrations\Kevin2023_2.png"></a>
+</details>
+<!----------------------------------------------------------------------->
 
 
 
@@ -226,8 +237,6 @@ Recent advances and applications</b></summary>
 
 
 ## Other interesting works
-
-
 
 
 
