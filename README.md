@@ -155,7 +155,7 @@ Recent advances and applications</b></summary>
     <summary><b>A variational approach to probing extreme events in turbulent dynamical systems &#128209</b></summary>
 <!-- Tags -->
     <img alt="dynamical system" src="https://img.shields.io/badge/dynamical_system-purple">
-    <img alt="extreme" src="https://img.shields.io/badge/extreme-lightseagreen">
+    <img alt="extreme" src="https://img.shields.io/badge/extreme-lightseagreen"><br>
 <!-- Illustration -->
     <a><img alt="illustration" src="illustrations\Mohammad2017_1.png"></a>
     <a><img alt="illustration" src="illustrations\Mohammad2017_2.png"></a>
