@@ -189,6 +189,18 @@ Recent advances and applications</b></summary>
 </details>
 <!----------------------------------------------------------------------->
 
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>Your diffusion model secretly knows the dimension of the data manifold &#128209</b></summary>
+<!-- Tags -->
+    <img alt="dynamical system" src="https://img.shields.io/badge/dynamical_system-purple">
+    <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue">
+<!-- Illustration -->
+    <a><img alt="illustration" src="illustrations\jan2023_1.png"></a>
+    <a><img alt="illustration" src="illustrations\jan2023_2.png"></a>
+</details>
+<!----------------------------------------------------------------------->
 
 
 
@@ -210,7 +222,7 @@ Recent advances and applications</b></summary>
 <!----------------------------------------------------------------------->
 <details>
 <!-- Unfold text -->
-    <summary><b>Uncertainty quantification in scientific machine learning: Methods, metrics, and comparisons &#128209</b></summary>
+    <summary><b>Uncertainty quantification in scientific machine learning: Methods, metrics, and comparisons </b></summary>
 <!-- Tags -->
     <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue">
     <img alt="uncertainty" src="https://img.shields.io/badge/uncertainty-firebrick">
