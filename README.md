@@ -202,6 +202,22 @@ Recent advances and applications</b></summary>
 </details>
 <!----------------------------------------------------------------------->
 
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>Score-Based Generative Modeling through Stochastic Differential Equations</b></summary>
+<!-- Tags -->
+    <img alt="sde" src="https://img.shields.io/badge/sde-darkcyan">
+    <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue"><br>
+<!-- Illustration -->
+    <a><img alt="illustration" src="illustrations\yang2021.png"></a>
+</details>
+<!----------------------------------------------------------------------->
+
+
+
+
+
 
 
 ## Predictability
@@ -317,5 +333,7 @@ Bookmark: &#128209
 <img alt="extreme" src="https://img.shields.io/badge/extreme-lightseagreen">
 
 <img alt="uncertainty" src="https://img.shields.io/badge/uncertainty-firebrick">
+
+<img alt="sde" src="https://img.shields.io/badge/sde-darkcyan">
 -->
 
