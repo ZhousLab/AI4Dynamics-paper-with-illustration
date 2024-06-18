@@ -214,7 +214,18 @@ Recent advances and applications</b></summary>
 </details>
 <!----------------------------------------------------------------------->
 
-
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>Dynamic information routing in complex networks</b></summary>
+<!-- Tags -->
+    <img alt="dynamical system" src="https://img.shields.io/badge/dynamical_system-purple">
+    <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue"><br>
+<!-- Illustration -->
+    <a><img alt="illustration" src="illustrations\Christoph2016_2.png"></a>
+    <a><img alt="illustration" src="illustrations\Christoph2016_1.png"></a>
+</details>
+<!----------------------------------------------------------------------->
 
 
 
