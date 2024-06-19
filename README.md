@@ -227,6 +227,16 @@ Recent advances and applications</b></summary>
 </details>
 <!----------------------------------------------------------------------->
 
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>On Some Limitations of Current Machine Learning Weather Prediction Models &#128209</b></summary>
+<!-- Tags -->
+    <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue"><br>
+<!-- Illustration -->
+    <a><img alt="illustration" src="illustrations\Massimo2024.png"></a>
+</details>
+<!----------------------------------------------------------------------->
 
 
 
