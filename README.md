@@ -95,7 +95,7 @@ Recent advances and applications</b></summary>
 
 
 
-## Machine learning for extremes/dynamics
+## *Method |* Machine learning for extremes/dynamics/physics
 <!----------------------------------------------------------------------->
 <details>
 <!-- Unfold text -->
@@ -165,20 +165,6 @@ Recent advances and applications</b></summary>
 <!----------------------------------------------------------------------->
 <details>
 <!-- Unfold text -->
-    <summary><b>Dynamical Tests of a Deep-Learning Weather Prediction Model &#128209</b></summary>
-<!-- Tags -->
-    <img alt="dynamical system" src="https://img.shields.io/badge/dynamical_system-purple">
-    <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue">
-<!-- Illustration -->
-    <a><img alt="illustration" src="illustrations\Gregory2024_1.png"></a>
-    <a><img alt="illustration" src="illustrations\Gregory2024_2.png"></a>
-</details>
-<!----------------------------------------------------------------------->
-
-
-<!----------------------------------------------------------------------->
-<details>
-<!-- Unfold text -->
     <summary><b>State estimation of a physical system with unknown governing equations &#128209</b></summary>
 <!-- Tags -->
     <img alt="dynamical system" src="https://img.shields.io/badge/dynamical_system-purple">
@@ -227,6 +213,9 @@ Recent advances and applications</b></summary>
 </details>
 <!----------------------------------------------------------------------->
 
+
+
+## *Application |* AI4Climate/AI4Science/Real-world tasks
 <!----------------------------------------------------------------------->
 <details>
 <!-- Unfold text -->
@@ -238,10 +227,34 @@ Recent advances and applications</b></summary>
 </details>
 <!----------------------------------------------------------------------->
 
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>Dynamical Tests of a Deep-Learning Weather Prediction Model &#128209</b></summary>
+<!-- Tags -->
+    <img alt="dynamical system" src="https://img.shields.io/badge/dynamical_system-purple">
+    <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue">
+<!-- Illustration -->
+    <a><img alt="illustration" src="illustrations\Gregory2024_1.png"></a>
+    <a><img alt="illustration" src="illustrations\Gregory2024_2.png"></a>
+</details>
+<!----------------------------------------------------------------------->
+
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>GeneralizingWeather Forecast to Fine-grained Temporal Scales via Physics-AI Hybrid Modeling</b></summary>
+<!-- Tags -->
+    <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue">
+<!-- Illustration -->
+    <a><img alt="illustration" src="illustrations\Wanghan2024.png"></a>
+</details>
+<!----------------------------------------------------------------------->
 
 
 
-## Predictability
+
+## *Special Topic |* Predictability
 <!----------------------------------------------------------------------->
 <details>
 <!-- Unfold text -->
@@ -255,7 +268,7 @@ Recent advances and applications</b></summary>
 <!----------------------------------------------------------------------->
 
 
-## Machine learning uncertainty / Scientific machine learning
+## *Special Topic |* Machine learning uncertainty / Scientific machine learning
 <!----------------------------------------------------------------------->
 <details>
 <!-- Unfold text -->
@@ -274,7 +287,7 @@ Recent advances and applications</b></summary>
 
 
 
-## XAI
+## *Special Topic |* XAI
 
 
 
