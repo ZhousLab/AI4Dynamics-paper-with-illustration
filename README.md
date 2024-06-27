@@ -213,6 +213,34 @@ Recent advances and applications</b></summary>
 </details>
 <!----------------------------------------------------------------------->
 
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>ExtremeCast: Boosting Extreme Value Prediction for Global Weather Forecast</b></summary>
+<!-- Tags -->
+    <img alt="extreme" src="https://img.shields.io/badge/extreme-lightseagreen">
+    <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue"><br>
+<!-- Illustration -->
+    <a><img alt="illustration" src="illustrations\Wuhan2024.png"></a>
+</details>
+<!----------------------------------------------------------------------->
+
+
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting</b></summary>
+<!-- Tags -->
+    <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue">
+    <img alt="sde" src="https://img.shields.io/badge/sde-darkcyan"><br>
+<!-- Illustration -->
+    <a><img alt="illustration" src="illustrations\Marcel2023_1.png"></a>
+    <a><img alt="illustration" src="illustrations\Marcel2023_2.png"></a>
+</details>
+<!----------------------------------------------------------------------->
+
+
+
 
 
 ## *Application |* AI4Climate/AI4Science/Real-world tasks
