@@ -328,8 +328,28 @@ Recent advances and applications</b></summary>
 
 ## Other interesting works
 
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>Network motifs shape distinct functioning of Earth’s moisture recycling hubs</b></summary>
+<!-- Tags -->
+    <img alt="dynamical system" src="https://img.shields.io/badge/dynamical_system-purple">
+<!-- Illustration -->
+    <a><img alt="illustration" src="illustrations\Nico2022_1.png"></a>
+    <a><img alt="illustration" src="illustrations\Nico2022_2.png"></a>
+</details>
+<!----------------------------------------------------------------------->
 
-
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>Global droughts connected by linkages between drought hubs</b></summary>
+<!-- Tags -->
+    <img alt="dynamical system" src="https://img.shields.io/badge/dynamical_system-purple">
+<!-- Illustration -->
+    <a><img alt="illustration" src="illustrations\Somnath2022.png"></a>
+</details>
+<!----------------------------------------------------------------------->
 
 
 
