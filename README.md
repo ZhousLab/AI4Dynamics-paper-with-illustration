@@ -88,9 +88,17 @@ Recent advances and applications</b></summary>
 </details>
 <!----------------------------------------------------------------------->
 
-
-
-
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>The ensemble approach to forecasting: A review and synthesis</b></summary>
+<!-- Tags -->
+    <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue">
+    <img alt="uncertainty" src="https://img.shields.io/badge/uncertainty-firebrick">
+<!-- Illustration -->
+    <a><img alt="illustration" src="illustrations\Hao2021.png"></a>
+</details>
+<!----------------------------------------------------------------------->
 
 
 
@@ -239,6 +247,18 @@ Recent advances and applications</b></summary>
 </details>
 <!----------------------------------------------------------------------->
 
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>Defining error accumulation in ML atmospheric simulators</b></summary>
+<!-- Tags -->
+    <img alt="dynamical system" src="https://img.shields.io/badge/dynamical_system-purple">
+    <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue"><br>
+<!-- Illustration -->
+    <a><img alt="illustration" src="illustrations\Raghul2024_1.png"></a>
+    <a><img alt="illustration" src="illustrations\Raghul2024_2.png"></a>
+</details>
+<!----------------------------------------------------------------------->
 
 
 
