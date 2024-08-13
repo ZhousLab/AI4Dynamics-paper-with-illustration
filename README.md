@@ -311,6 +311,17 @@ Recent advances and applications</b></summary>
 </details>
 <!----------------------------------------------------------------------->
 
+<!----------------------------------------------------------------------->
+<details>
+<!-- Unfold text -->
+    <summary><b>Regional Heatwave Prediction Using Graph Neural Networkand Weather Station Data</b></summary>
+<!-- Tags -->
+    <img alt="machine learning" src="https://img.shields.io/badge/machine_learning-blue"><br>
+<!-- Illustration -->
+    <a><img alt="illustration" src="illustrations\Peiyuan2023_1.png"></a>
+    <a><img alt="illustration" src="illustrations\Peiyuan2023_2.png"></a>
+</details>
+<!----------------------------------------------------------------------->
 
 
 
